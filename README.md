@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center"> ## 📌 A not very skilled __OGFN__ enjoyer,<br>i try to grow the __OGFN__ Community even with not the most Dev experience,<br>ive already grown a [Discord](https://discord.com/invite/ffZMEvmbEb) with over 1k members! 🧩</p>
+<p align="center"> ## 📌 A not very skilled __OGFN__ enjoyer,<br>i try to grow the __OGFN__ Community even with not the most Dev experience,<br>ive already grown a Discord with over 1k members! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
 
 ###
 
