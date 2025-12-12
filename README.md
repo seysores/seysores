@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seysores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1132706423441195098)"  />
+  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/94490510688792576?theme=dark&bg=#202124&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1132706423441195098)"  />
 </div>
 
 ###
