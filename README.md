@@ -15,7 +15,11 @@
 
 <p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> creator,<br>i try to <b>grow</b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
 
-<p align="center"> [![Check out my work.](https://img.shields.io/badge/▶-Watch%20Video-red)](https://youtu.be/DBaz9QRjHVc) </p>
+<p align="center">
+  <a href="https://youtu.be/DBaz9QRjHVc">
+    <img src="https://img.shields.io/badge/▶-Watch%20Video-red" alt="Check out my work">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/1132706423441195098?theme=dark&animated=true&borderRadius=20px" alt="Discord Presence"  />
