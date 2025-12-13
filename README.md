@@ -202,7 +202,7 @@
   <img src="https://img.shields.io/badge/Season%2027-✔️-brightgreen?logo=fortnite" title="Chapter 4 S-OG: Relive OG 🌠">
   <img src="https://img.shields.io/badge/Season%2028-✔️-brightgreen?logo=fortnite" title="Chapter 5 S1: New movement? 🌒">
   <img src="https://img.shields.io/badge/Season%2029-✔️-brightgreen?logo=fortnite" title="Chapter 5 S2: Greek Mythology 🤖">
-  <img src="https://img.shields.io/badge/Season%2030-✔️-brightgreen?logo=fortnite" title="Chapter 4 S3: Wrecked season! 🎇">
+  <img src="https://img.shields.io/badge/Season%2030-✔️-brightgreen?logo=fortnite" title="Chapter 5 S3: Wrecked season! 🎇">
 
 ---
 
