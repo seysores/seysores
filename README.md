@@ -48,6 +48,11 @@
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white">
   </a>
 
+  <!-- Discord alt -->
+  <a href="https://https://discord.gg/XPnfv2QnjH">
+    <img src="https://img.shields.io/badge/Discord-Join%20OGFN%20Server-5865F2?logo=discord&logoColor=white">
+  </a>
+
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/3lb6e5b4r5zpcjt">
     <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white">
