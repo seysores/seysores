@@ -6,10 +6,24 @@
 
 <p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> b> creator,<br>i try to <b>grow</b> b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seysores/seysores/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seysores/seysores/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/seysores/seysores/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 ###
 
 <div align="center">
   <img height="580" src="https://i.imgur.com/opC43h2.jpeg"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -46,13 +60,11 @@
 
 ###
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seysores/seysores/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seysores/seysores/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/seysores/seysores/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
 
 </picture>
 
