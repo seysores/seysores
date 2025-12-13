@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="580" src="https://i.imgur.com/9orqt4q.png"  />
 </div>
@@ -8,6 +7,13 @@
 <br><br><br><br>
 
 <div align="center">
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
+</div>
+
+<br>
 
   <!-- Guns.lol -->
   <a href="https://guns.lol/seysores">
@@ -144,9 +150,53 @@
 
 ###
 
-<br><br>
+<div align="center">
+  <h3>🌟 Featured Projects</h3>
+  <a href="https://github.com/seysores/Erbium-gav"><img src="https://img.shields.io/badge/Project1-⭐5-orange" /></a>
+  <a href="https://github.com/seysores/gav-1v1-paks-erbium"><img src="https://img.shields.io/badge/Project2-⭐10-blue" /></a>
+  <a href="https://github.com/seysores/seysores"><img src="https://img.shields.io/badge/Project3-⭐7-green" /></a>
+</div>
 
-###
+<div align="center">
+  <h3>🧩 Custom Project Reboot setup.</h3>
+  <a href="https://github.com/plooshi/Erbium"><img src="https://img.shields.io/badge/Erbium-⚙️-white" /></a>
+  <a href="https://github.com/plooshi/Starfall"><img src="https://img.shields.io/badge/Starfall-💫-blue" /></a>
+  <a href="https://github.com/andr1ww/Nexa"><img src="https://img.shields.io/badge/Nexa-🖥️-purple" /></a>
+</div>
+
+<div align="center">
+  <h3>🎮 Supported OG Fortnite Seasons</h3>
+
+  <img src="https://img.shields.io/badge/Season%201-✔️-brightgreen?logo=fortnite" title="Season 1: OG Island vibes 🏝️">
+  <img src="https://img.shields.io/badge/Season%202-✔️-brightgreen?logo=fortnite" title="Season 2: Battle Pass begins 🎫">
+  <img src="https://img.shields.io/badge/Season%203-✔️-brightgreen?logo=fortnite" title="Season 3: Space vibes 🚀">
+  <img src="https://img.shields.io/badge/Season%204-✔️-brightgreen?logo=fortnite" title="Season 4: Superhero skins 🦸">
+  <img src="https://img.shields.io/badge/Season%205-✔️-brightgreen?logo=fortnite" title="Season 5: Desert & adventure vibes 🏜️">
+  <img src="https://img.shields.io/badge/Season%206-✔️-brightgreen?logo=fortnite" title="Season 6: Halloween vibes 🎃">
+  <img src="https://img.shields.io/badge/Season%207-✔️-brightgreen?logo=fortnite" title="Season 7: Winter & planes ❄️✈️">
+  <img src="https://img.shields.io/badge/Season%208-✔️-brightgreen?logo=fortnite" title="Season 8: Pirate & volcano vibes 🏴‍☠️">
+  <img src="https://img.shields.io/badge/Season%209-✔️-brightgreen?logo=fortnite" title="Season 9: Futuristic city vibes 🏙️">
+  <img src="https://img.shields.io/badge/Season%2010-✔️-brightgreen?logo=fortnite" title="Season X: End of an era vibes 🔥">
+  <img src="https://img.shields.io/badge/Season%2011-✔️-brightgreen?logo=fortnite" title="Chapter 2 S1: New map, fresh start 🌍">
+  <img src="https://img.shields.io/badge/Season%2012-✔️-brightgreen?logo=fortnite" title="Chapter 2 S2: Spy & action vibes 🕵️">
+  <img src="https://img.shields.io/badge/Season%2013-✔️-brightgreen?logo=fortnite" title="Chapter 2 S3: Flooded map vibes 🌊">
+  <img src="https://img.shields.io/badge/Season%2014-✔️-brightgreen?logo=fortnite" title="Chapter 2 S4: Marvel crossover vibes 🦸‍♂️">
+  <img src="https://img.shields.io/badge/Season%2015-✔️-brightgreen?logo=fortnite" title="Chapter 2 S5: Zero Point vibes ⚡">
+  <img src="https://img.shields.io/badge/Season%2016-✔️-brightgreen?logo=fortnite" title="Chapter 2 S6: Primal vibes 🐺">
+  <img src="https://img.shields.io/badge/Season%2017-✔️-brightgreen?logo=fortnite" title="Chapter 2 S7: Alien invasion vibes 👽">
+  <img src="https://img.shields.io/badge/Season%2018-✔️-brightgreen?logo=fortnite" title="Chapter 2 S8: Cubes & darkness vibes 🔷">
+  <img src="https://img.shields.io/badge/Season%2019-✔️-brightgreen?logo=fortnite" title="Chapter 3 S1: New map & fresh gameplay 🌄">
+  <img src="https://img.shields.io/badge/Season%2020-✔️-brightgreen?logo=fortnite" title="Chapter 3 S2: Resistance vibes 🛡️">
+  <img src="https://img.shields.io/badge/Season%2021-✔️-brightgreen?logo=fortnite" title="Chapter 3 S3: Vibin’ jungle vibes 🌴">
+  <img src="https://img.shields.io/badge/Season%2022-✔️-brightgreen?logo=fortnite" title="Chapter 3 S4: Nexus War vibes ⚔️">
+  <img src="https://img.shields.io/badge/Season%2023-✔️-brightgreen?logo=fortnite" title="Chapter 4 S1: New era vibes 🏛️">
+  <img src="https://img.shields.io/badge/Season%2024-✔️-brightgreen?logo=fortnite" title="Chapter 4 S2: Reality vibes 🌌">
+  <img src="https://img.shields.io/badge/Season%2025-✔️-brightgreen?logo=fortnite" title="Chapter 4 S3: Primal Island vibes 🦖">
+  <img src="https://img.shields.io/badge/Season%2026-✔️-brightgreen?logo=fortnite" title="Chapter 4 S4: Paradise vibes 🏝️">
+  <img src="https://img.shields.io/badge/Season%2027-✔️-brightgreen?logo=fortnite" title="Chapter 4 S-OG: Relive OG 🌠">
+  <img src="https://img.shields.io/badge/Season%2028-✔️-brightgreen?logo=fortnite" title="Chapter 5 S1: New movement? 🌒">
+  <img src="https://img.shields.io/badge/Season%2029-✔️-brightgreen?logo=fortnite" title="Chapter 5 S2: Greek Mythology 🤖">
+  <img src="https://img.shields.io/badge/Season%2030-✔️-brightgreen?logo=fortnite" title="Chapter 4 S3: Wrecked season! 🎇">
 
 </picture>
 
@@ -159,9 +209,3 @@
 ###
 
 <p align="center">📌 I rarely do anythiing on github so catch up with me on discord! ⚙️</p>
-
-###
-
-
-
-###
