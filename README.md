@@ -9,16 +9,14 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
+</div>
 
 <p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> creator,<br>i try to <b>grow</b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/1132706423441195098?theme=dark&animated=true&borderRadius=20px" alt="Discord Presence"  />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
 </div>
 
 <p align="center">
