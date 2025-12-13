@@ -8,69 +8,80 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
 </div>
 
-<br>
-
   <!-- Guns.lol -->
+  <div align="center">
   <a href="https://guns.lol/seysores">
     <img src="https://img.shields.io/badge/guns.lol-seysores-black">
   </a>
 
   <!-- YouTube main -->
+  <div align="center">
   <a href="https://www.youtube.com/@seysores">
     <img src="https://img.shields.io/badge/YouTube-@seysores-red?logo=youtube&logoColor=white">
   </a>
 
   <!-- YouTube alt -->
+  <div align="center">
   <a href="https://www.youtube.com/@seysoresalt">
     <img src="https://img.shields.io/badge/YouTube-@seysoresalt-red?logo=youtube&logoColor=white">
   </a>
 
   <!-- TikTok main -->
+  <div align="center">
   <a href="https://www.tiktok.com/@seysores.exe">
     <img src="https://img.shields.io/badge/TikTok-@seysores.exe-black?logo=tiktok&logoColor=white">
   </a>
 
   <!-- TikTok editor -->
+  <div align="center">
   <a href="https://www.tiktok.com/@seysores.editor">
     <img src="https://img.shields.io/badge/TikTok-@seysores.editor-black?logo=tiktok&logoColor=white">
   </a>
 
   <!-- Twitch -->
+  <div align="center">
   <a href="https://www.twitch.tv/seysores">
     <img src="https://img.shields.io/badge/Twitch-seysores-9146FF?logo=twitch&logoColor=white">
   </a>
 
   <!-- Discord -->
+  <div align="center">
   <a href="https://discord.com/invite/XPnfv2QnjH">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white">
   </a>
 
   <!-- Discord alt -->
+  <div align="center">
   <a href="https://https://discord.gg/XPnfv2QnjH">
     <img src="https://img.shields.io/badge/Discord-Join%20OGFN%20Server-5865F2?logo=discord&logoColor=white">
   </a>
 
   <!-- Spotify -->
+  <div align="center">
   <a href="https://open.spotify.com/user/3lb6e5b4r5zpcjt">
     <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white">
   </a>
 
   <!-- Steam -->
+  <div align="center">
   <a href="https://steamcommunity.com/id/seysores">
     <img src="https://img.shields.io/badge/Steam-seysores-171A21?logo=steam&logoColor=white">
   </a>
 
   <!-- X / Twitter -->
+  <div align="center">
   <a href="https://x.com/seysores">
     <img src="https://img.shields.io/badge/X-@seysores-black?logo=x&logoColor=white">
   </a>
 
   <!-- GitHub -->
+  <div align="center">
   <a href="https://github.com/seysores">
     <img src="https://img.shields.io/badge/GitHub-seysores-black?logo=github&logoColor=white">
   </a>
 
   <!-- Roblox -->
+  <div align="center">
   <a href="https://www.roblox.com/users/profile?username=cantberealsey">
     <img src="https://img.shields.io/badge/Roblox-cantberealsey-000000?logo=roblox&logoColor=white">
   </a>
