@@ -2,7 +2,7 @@
   <img height="580" src="https://i.imgur.com/J7ccCN8.jpeg" style="border-radius: 40px;" />
 </div>
 
-<br><br>
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
@@ -87,7 +87,7 @@
   <img src="https://lanyard.cnrad.dev/api/1132706423441195098?theme=dark&animated=true&borderRadius=20px" alt="Discord Presence"  />
 </div>
 
-<br><br>
+---
 
 <p align="center">
   <picture>
@@ -97,17 +97,17 @@
   </picture>
 </p>
 
-<br><br><br><br>
+---
 
 ###
 
 <div align="center">
-  <img height="580" src="https://i.imgur.com/opC43h2.jpeg"  />
+  <img height="580" src="https://i.imgur.com/El7El0h.jpeg"  />
 </div>
 
 ###
 
-<br><br><br><br>
+---
 
 ###
 
@@ -193,14 +193,16 @@
   <img src="https://img.shields.io/badge/Season%2029-✔️-brightgreen?logo=fortnite" title="Chapter 5 S2: Greek Mythology 🤖">
   <img src="https://img.shields.io/badge/Season%2030-✔️-brightgreen?logo=fortnite" title="Chapter 4 S3: Wrecked season! 🎇">
 
-</picture>
+---
 
 ###
 
 <div align="center">
-  <img height="650" src="https://i.imgur.com/IbzvL3E.jpeg"  />
+  <img height="650" src="https://i.imgur.com/gxZwawd.jpeg"  />
 </div>
 
 ###
+
+---
 
 <p align="center">📌 I rarely do anythiing on github so catch up with me on discord! ⚙️</p>
