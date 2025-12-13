@@ -1,13 +1,8 @@
 <div align="center">
-  <img height="580" src="https://i.imgur.com/9orqt4q.png"  />
+  <img height="580" src="https://i.imgur.com/J7ccCN8.jpeg" style="border-radius: 40px;" />
 </div>
 
-###
-
-<br><br><br><br>
-
-<div align="center">
-
+<br><br>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
