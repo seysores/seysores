@@ -9,21 +9,83 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
+<br><br>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
+
+  <!-- Guns.lol -->
+  <a href="https://guns.lol/seysores">
+    <img src="https://img.shields.io/badge/guns.lol-seysores-black">
+  </a>
+
+  <!-- YouTube main -->
+  <a href="https://www.youtube.com/@seysores">
+    <img src="https://img.shields.io/badge/YouTube-@seysores-red?logo=youtube&logoColor=white">
+  </a>
+
+  <!-- YouTube alt -->
+  <a href="https://www.youtube.com/@seysoresalt">
+    <img src="https://img.shields.io/badge/YouTube-@seysoresalt-red?logo=youtube&logoColor=white">
+  </a>
+
+  <!-- TikTok main -->
+  <a href="https://www.tiktok.com/@seysores.exe">
+    <img src="https://img.shields.io/badge/TikTok-@seysores.exe-black?logo=tiktok&logoColor=white">
+  </a>
+
+  <!-- TikTok editor -->
+  <a href="https://www.tiktok.com/@seysores.editor">
+    <img src="https://img.shields.io/badge/TikTok-@seysores.editor-black?logo=tiktok&logoColor=white">
+  </a>
+
+  <!-- Twitch -->
+  <a href="https://www.twitch.tv/seysores">
+    <img src="https://img.shields.io/badge/Twitch-seysores-9146FF?logo=twitch&logoColor=white">
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/invite/XPnfv2QnjH">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white">
+  </a>
+
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/user/3lb6e5b4r5zpcjt">
+    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white">
+  </a>
+
+  <!-- Steam -->
+  <a href="https://steamcommunity.com/id/seysores">
+    <img src="https://img.shields.io/badge/Steam-seysores-171A21?logo=steam&logoColor=white">
+  </a>
+
+  <!-- X / Twitter -->
+  <a href="https://x.com/seysores">
+    <img src="https://img.shields.io/badge/X-@seysores-black?logo=x&logoColor=white">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/seysores">
+    <img src="https://img.shields.io/badge/GitHub-seysores-black?logo=github&logoColor=white">
+  </a>
+
+  <!-- Roblox -->
+  <a href="https://www.roblox.com/users/profile?username=cantberealsey">
+    <img src="https://img.shields.io/badge/Roblox-cantberealsey-000000?logo=roblox&logoColor=white">
+  </a>
+
 </div>
+
+<br><br>
 
 <p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> creator,<br>i try to <b>grow</b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
 
-<p align="center">
-  <a href="https://youtu.be/DBaz9QRjHVc">
-    <img src="https://img.shields.io/badge/▶-Watch%20Video-red" alt="Check out my work">
-  </a>
-</p>
+<br>
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/1132706423441195098?theme=dark&animated=true&borderRadius=20px" alt="Discord Presence"  />
 </div>
+
+<br><br>
 
 <p align="center">
   <picture>
@@ -51,25 +113,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://x.com/seysores" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="120" height="70" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.gg/ffZMEvmbEb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="120" height="70" alt="discord logo"  />
-  </a>
-  <a href="https://youtube.com/@seysores" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="120" height="70" alt="youtube logo"  />
-  </a>
-  <a href="https://guns.lol/seysores" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="120" height="70" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seysores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seysores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
@@ -79,6 +122,8 @@
 ###
 
 <p align="center">⚙️ <b>What i use</b>: 
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
