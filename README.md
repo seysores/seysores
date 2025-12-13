@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> b> creator,<br>i try to <b>grow</b> b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
+<p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> b> creator,<br>i try to <b>grow</b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
 
 <p align="center">
   <picture>
