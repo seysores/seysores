@@ -1,10 +1,12 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+
 
 ###
 
 <p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> b> creator,<br>i try to <b>grow</b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
+</div>
 
 <p align="center">
   <picture>
@@ -55,7 +57,23 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -76,12 +94,10 @@
 
 ###
 
-<p align="left">📌 I rarely do anythiing on github so catch up with me on discord! ⚙️</p>
+<p align="center">📌 I rarely do anythiing on github so catch up with me on discord! ⚙️</p>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+
 
 ###
