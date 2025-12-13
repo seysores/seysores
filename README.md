@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> b> creator,<br>i try to <b>grow</b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
+<p align="center"> 📌 A not very <b>skilled <u>OGFN<u></b> creator,<br>i try to <b>grow</b> the <b><u>OGFN<u> Community</b> even with not the most <u><b>Dev</b> experience</u>,<br>ive already grown a <b>Discord with over 1k members</b>! 🧩 https://discord.com/invite/ffZMEvmb 🧩 </p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=seysores.seysores&"  />
@@ -55,6 +55,8 @@
 </div>
 
 ###
+
+<p align="center">⚙️ <b>What i use</b>: 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
